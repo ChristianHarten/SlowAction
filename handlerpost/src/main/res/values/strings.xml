@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SlowAction</string>
+    <string name="successMessage">Habe %d Millisekunden gepennt.</string>
+    <string name="failureMessage">Hejel, wat?</string>
+    <string name="handler_post_runnable_button">Handler.post(Runnable)</string>
+</resources>

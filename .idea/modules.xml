@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlowAction.iml" filepath="$PROJECT_DIR$/SlowAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerpost/handlerpost.iml" filepath="$PROJECT_DIR$/handlerpost/handlerpost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlersend/handlersend.iml" filepath="$PROJECT_DIR$/handlersend/handlersend.iml" />
+    </modules>
+  </component>
+</project>
