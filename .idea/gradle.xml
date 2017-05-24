@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/asynctask" />
             <option value="$PROJECT_DIR$/handlerpost" />
             <option value="$PROJECT_DIR$/handlersend" />
+            <option value="$PROJECT_DIR$/viewrunnable" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

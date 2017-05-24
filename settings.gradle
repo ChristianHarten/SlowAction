@@ -1,1 +1,1 @@
-include ':handlerpost', ':handlersend', ':asynctask'
+include ':handlerpost', ':handlersend', ':asynctask', ':viewrunnable'
